@@ -1,6 +1,6 @@
 # mycode (Project Title)
 
-Learning to code
+Want to learn how to code version control projects with git.
 
 ## Getting Started
 
