@@ -15,3 +15,4 @@ print(list1[4][0])
 # Challenge 
 animals = ['Fox','Fly','Ant','Bee','Cod','Cat','Dog','Yak','Cow','Hen','Koi','Hog','Jay','Kit']
 print(animals)
+print(animals[0], animals[1])
